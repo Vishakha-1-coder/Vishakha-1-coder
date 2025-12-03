@@ -1,5 +1,5 @@
-# 💫 Hi 👋, I'm Vishakha Karande
-**An Aspiring AI Engineer**
+# 💫 Hi 👋, I'm Vishakha Karande - An Aspiring AI Engineer
+**🎓 I’m a Final Year IT Engineering student specializing in AI & Robotics at Pillai College of Engineering, New Panvel.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/vishakha-karande) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karandevishakha1@gmail.com) 
