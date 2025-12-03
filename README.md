@@ -7,7 +7,7 @@
 - 🔭 **I’m currently working on:** an AI tool that teaches any concept like a classroom teacher, using an LLM for explanations and a neural network that draws visual sketches.
 - 🌱 **I’m currently learning:** LLM, RAG
 - 👯 **I’m looking to collaborate on:** AI based projects
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** karandevishakha1@gmail.com
 - ⚡ **Fun fact:** I Love Designing
   
 # 💻 Tech Stack:
